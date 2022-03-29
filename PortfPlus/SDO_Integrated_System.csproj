@@ -28,7 +28,9 @@
     <InstallUrl>https://raw.githubusercontent.com/marvingonzaga/SDO-Integration-System/master/Published/</InstallUrl>
     <UpdateUrl>https://raw.githubusercontent.com/marvingonzaga/SDO-Integration-System/master/Published/</UpdateUrl>
     <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
-    <ApplicationRevision>3</ApplicationRevision>
+    <DisallowUrlActivation>true</DisallowUrlActivation>
+    <TrustUrlParameters>true</TrustUrlParameters>
+    <ApplicationRevision>4</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
