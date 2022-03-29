@@ -3,8 +3,8 @@
   <PropertyGroup>
     <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\</ReferencePath>
     <ProjectView>ProjectFiles</ProjectView>
-    <PublishUrlHistory>C:\Users\marvi\OneDrive\Desktop\SDO Integration System\Publish\|publish\</PublishUrlHistory>
-    <InstallUrlHistory>https://raw.githubusercontent.com/marvingonzaga/SDO_Integrated_System/master/published/</InstallUrlHistory>
+    <PublishUrlHistory>C:\Users\marvi\OneDrive\Desktop\SDO Integration System\Published\|C:\Users\marvi\OneDrive\Desktop\SDO Integration System\Publish\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>https://raw.githubusercontent.com/marvingonzaga/SDO-Integration-System/master/Published/|https://raw.githubusercontent.com/marvingonzaga/SDO_Integrated_System/master/published/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory>https://raw.githubusercontent.com/marvingonzaga/SDO_Integrated_System/master/published/</UpdateUrlHistory>
     <BootstrapperUrlHistory />

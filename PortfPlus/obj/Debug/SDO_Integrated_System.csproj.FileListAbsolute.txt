@@ -695,3 +695,8 @@ C:\Users\marvi\OneDrive\Desktop\SDO Integration System\PortfPlus\bin\Debug\zxing
 C:\Users\marvi\OneDrive\Desktop\SDO Integration System\PortfPlus\bin\Debug\zxing.presentation.xml
 C:\Users\marvi\OneDrive\Desktop\SDO Integration System\PortfPlus\obj\Debug\SDO_Integrated_System.TeacherRegistration.resources
 C:\Users\marvi\OneDrive\Desktop\SDO Integration System\PortfPlus\obj\Debug\SDO_Integrated_System.csproj.AssemblyReference.cache
+C:\Users\marvi\OneDrive\Desktop\SDO Integration System\PortfPlus\bin\Debug\SDO_Integrated_System.exe.manifest
+C:\Users\marvi\OneDrive\Desktop\SDO Integration System\PortfPlus\bin\Debug\SDO_Integrated_System.application
+C:\Users\marvi\OneDrive\Desktop\SDO Integration System\PortfPlus\obj\Debug\SDO_Integrated_System.TrustInfo.xml
+C:\Users\marvi\OneDrive\Desktop\SDO Integration System\PortfPlus\obj\Debug\SDO_Integrated_System.exe.manifest
+C:\Users\marvi\OneDrive\Desktop\SDO Integration System\PortfPlus\obj\Debug\SDO_Integrated_System.application
