@@ -1,0 +1,13 @@
+;aiu;
+
+[Update]
+Name = DepEd Antique Certificate Generator
+ProductVersion = 1.1.0.0
+URL = https://www.dropbox.com/s/ktrkoubkpx25gb9/Certification%20Generator%20v.1.1.0.exe?dl=1
+Size = 187400499
+SHA256 = C2D6F53987124173F3C1D287AB472461C8915E3CA3BF2F6EF3BEA4C23079A45D
+MD5 = 5fb2231a29ab64012bb91a8e2d075ed8
+ServerFileName = Certification Generator v.1.1.0.exe
+RegistryKey = HKUD\Software\Schools Division of Antique\DepEd Antique Certificate Generator\Version
+Version = 1.1.0.0
+Description = Version  1.1.0 is available!!
